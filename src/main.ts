@@ -1,4 +1,5 @@
 import "./style.css";
+import "katex/dist/katex.min.css";
 import { parseRoute, navigateTo } from "./router";
 import { initWriteMode } from "./write";
 import { initReadMode } from "./read";
